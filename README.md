@@ -43,15 +43,6 @@ My work revolves around developing and backtesting data-driven models. I'm prima
 
 ---
 
-###  Digital Footprint
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  &nbsp;
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
-</p>
-
----
 
 ### ⟁ Connect
 
