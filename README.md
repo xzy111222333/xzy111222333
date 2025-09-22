@@ -1,14 +1,13 @@
 <div align="center">
 
-# Welcome！  
+# Welcome！
 
 </div>
-
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&w=1600&q=80" alt="Markets banner" width="60%">
+  <a href="https://alexiscapon.com">
+    <img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" alt="MasterHead">
+  </a>
 </p>
-
-<p align="center">
   A third-year Computer Science student charting a path at the intersection of technology and finance. 
   <br>
   I'm obsessed with grid trading and building automated strategies that capitalize on market volatility.
