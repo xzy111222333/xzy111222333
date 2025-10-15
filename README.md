@@ -8,7 +8,7 @@
     <img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" alt="MasterHead">
   </a>
 </p>
-  A third-year Computer Science student charting a path at the intersection of technology and finance. 
+  A third-year Computer Science student charting a path at the intersection of technology and finance. As you know, discipline is what it takes to win.
   <br>
   I'm obsessed with grid trading and building automated strategies that capitalize on market volatility.
 </p>
@@ -18,12 +18,12 @@
 <p align="center">▁▂▃▅▆▇█▇▆▅▃▂▁</p>
 
 <p align="center">
-  <strong>(I have no open source spirit.)</strong>
+  <strong>(I have no open source spirit.But sometimes teacher will let you open your homework.)</strong>
 </p>
 
 ---
 
-### ⟡ Core Focus: Algorithmic & Grid Trading
+### Core Focus: Algorithmic & Grid Trading
 
 My work revolves around developing and backtesting data-driven models. I'm primarily focused on:
 - ⟠ **Grid Trading Systems**: Designing bots that thrive in fluctuating markets.
