@@ -28,20 +28,8 @@
 My work revolves around developing and backtesting data-driven models. I'm primarily focused on:
 - ⟠ **Grid Trading Systems**: Designing bots that thrive in fluctuating markets.
 - ⟺ **Market Analysis**: Statistical edges, regime detection, and anomaly hunting.
-- ⌁ **Performance**: Low-latency code paths where microseconds matter.
 
 ---
-
-### ✦ Currently Exploring
-
-- **Rust**: For performance-critical systems and low-latency trading applications.
-
-<p align="center">
-  <img src="https://www.rustacean.net/assets/cuddlyferris.png" width="90" alt="Ferris the Crab">
-</p>
-
----
-
 
 ### ⟁ Connect
 
